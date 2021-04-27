@@ -1,2 +1,2 @@
 # SnakeGame
-Made by Shubham Kashyap
+Made using Pygames
